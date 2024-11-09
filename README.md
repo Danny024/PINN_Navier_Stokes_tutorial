@@ -1,8 +1,7 @@
 # PINN_Navier_Stokes_tutorial
-This is a Jupyter notebook tutorial for the Lid Cavity driven fluid dynamic problem using Physics Informed Neural Networks.
+This Jupyter notebook provides a tutorial on solving the Lid-Driven Cavity fluid dynamics problem using Physics-Informed Neural Networks (PINNs).
 
-We make use of the Nvidia Modulus Sym library and feed the Navier Stokes Equation Partial Differential Equation to where as definining our boundary conditions to be feed into a Fully Connected Neural Network Architecture
-
+We utilize NVIDIA's Modulus Sym library, encoding the Navier-Stokes partial differential equations and defining boundary conditions to be fed into a fully connected neural network architecture.
 
 [Colab Notebook Link](https://colab.research.google.com/drive/1L1vXLb4IybxA0gj7rIU_3a4YFTgHxpLu)
 
